@@ -4394,5 +4394,12 @@
     "description": "Build a computer from logic gates to software (free).",
     "section": "By Subject",
     "subsection": "Computer Science"
+  },
+  {
+    "name": "NoteGoblin",
+    "url": "https://notegoblin-app.vercel.app",
+    "description": "Turn your own notes or lecture recordings into flashcards and quizzes (freemium).",
+    "section": "Flashcards & Spaced Repetition",
+    "subsection": null
   }
 ]
