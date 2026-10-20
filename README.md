@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Resources](https://img.shields.io/badge/resources-628-blue)
+![Resources](https://img.shields.io/badge/resources-629-blue)
 ![Sections](https://img.shields.io/badge/sections-11-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-blue.svg)](CHANGELOG.md)
 
@@ -36,7 +36,7 @@ This list covers exam, curriculum, and subject-specific study material. [Awesome
 | <span role="img" aria-label="Exam and Curriculum Prep icon">📝</span> | [Exam & Curriculum Prep](#exam--curriculum-prep) | 124 |
 | <span role="img" aria-label="By Subject icon">📚</span> | [By Subject](#by-subject) | 387 |
 | <span role="img" aria-label="Notes and Knowledge Management icon">🗒️</span> | [Notes & Knowledge Management](#notes--knowledge-management) | 11 |
-| <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 15 |
+| <span role="img" aria-label="Flashcards and Spaced Repetition icon">🧠</span> | [Flashcards & Spaced Repetition](#flashcards--spaced-repetition) | 16 |
 | <span role="img" aria-label="Task, Time and Planning icon">⏰</span> | [Task, Time & Planning](#task-time--planning) | 11 |
 | <span role="img" aria-label="Writing, Citations and Reference icon">✍️</span> | [Writing, Citations & Reference](#writing-citations--reference) | 11 |
 | <span role="img" aria-label="AI and Academic Integrity icon">⚖️</span> | [AI & Academic Integrity](#ai--academic-integrity) | 10 |
@@ -1009,6 +1009,7 @@ Remember more with less rereading.
 - **[Major Dictionary](https://majordictionary.com/major-system)** - Memorize numbers with a Major System chart and Anki decks (free).
 - **[Memly](https://memly.ai/en)** - Turn PDFs, slides, and YouTube videos into AI flashcards with spaced-repetition reviews (freemium).
 - **[Mochi](https://mochi.cards)** - Markdown-friendly spaced-repetition flashcards (freemium).
+- **[NoteGoblin](https://notegoblin-app.vercel.app)** - Turn your own notes or lecture recordings into flashcards and quizzes (freemium).
 - **[Quizlet](https://quizlet.com)** - Fast flashcards and study games (freemium).
 - **[StudyDaily](https://www.studydaily.app/en)** - Spaced-repetition flashcards that import Anki decks with review history (freemium).
 - **[StudyLoop](https://studyloop-liard.vercel.app)** - Paste notes or a PDF, get an instant flashcard deck with built-in spaced repetition (free).
