@@ -4400,6 +4400,7 @@
     "url": "https://notegoblin-app.vercel.app",
     "description": "Turn your own notes or lecture recordings into flashcards and quizzes (freemium).",
     "section": "Flashcards & Spaced Repetition",
+    "subsection": null
   },
   {
     "name": "Yap Voice Typing",
@@ -4407,5 +4408,5 @@
     "description": "Type by voice in any text box, with speech recognized in your browser (free).",
     "section": "Writing, Citations & Reference",
     "subsection": null
-  },
+  }
 ]
